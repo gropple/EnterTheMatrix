@@ -1,8 +1,13 @@
 # Enter the Matrix
 A simple immutable library for vector and matrix maths, written in Scala.
 
+## Rational
+The [LWJGL](http://www.lwjgl.org/) (Lightweight Java Games Library) is a great project, but version 3 removed the useful vector & matrix library.  
+
+This project provides a very simple, lightweight zero-dependency library that you can use with LWJGL, and understand and use in seconds. 
+
 ## Usage
-Just clone and include in your project.
+Just clone and include in your project.  There are no dependencies.
 
 The library is very straightforward and basically works exactly how you'd expect:
 ```
